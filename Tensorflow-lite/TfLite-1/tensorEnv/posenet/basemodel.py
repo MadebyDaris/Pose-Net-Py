@@ -9,6 +9,6 @@ import matplotlib.pyplot as plt
 # ---- IMPORTS ----
 
 
-class BaseModel():
-    def __init__(this, inputShape, ):
+# class BaseModel():
+#     def __init__(this, inputShape, ):
         
